@@ -1,10 +1,6 @@
 class Cat 
-  attr_accessor :cats_name
+  attr_accessor :name
   
 
- # meow = 
-  
-  maru.name
-  maru.meow
-  
+
 end 

@@ -4,7 +4,7 @@ class Cat
   maru = Cat.new 
   maru.name = "Maru"
   
-  meow = 
+ # meow = 
   
   maru.name
   maru.meow

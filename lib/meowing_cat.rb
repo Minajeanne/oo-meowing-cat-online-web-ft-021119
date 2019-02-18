@@ -1,7 +1,9 @@
 class Cat 
-  attr_accessor :name
+  attr_accessor :cats_name
   
   cats_name
+  
+  
   
   #def name=(dogs_name)
    # @name = dogs_name

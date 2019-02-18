@@ -1,7 +1,8 @@
 class Cat 
   attr_accessor :cats_name
   
-  cats_name
+  cats_name = Cat.new 
+  
   
   
   
